@@ -9,5 +9,5 @@
  * @author aariasg
  */
 public class Prueba {
-    String hola;
+    String adios;
 }
