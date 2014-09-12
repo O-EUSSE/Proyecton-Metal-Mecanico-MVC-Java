@@ -10,4 +10,5 @@
  */
 public class Prueba {
     String adios;
+    String oscar;
 }
